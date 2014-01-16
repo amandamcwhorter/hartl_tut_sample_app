@@ -4,7 +4,7 @@
     <list default="true" id="42a60c1b-b76b-4857-b5f0-cad4d79c2e82" name="Default" comment="" />
     <ignored path="hartl_tut_sample_app.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Gemfile" changelist="42a60c1b-b76b-4857-b5f0-cad4d79c2e82" time="1389285068004" ignored="false" />
+    <file path="/Gemfile" changelist="42a60c1b-b76b-4857-b5f0-cad4d79c2e82" time="1389806261333" ignored="false" />
     <file path="/secret_token.rb" changelist="42a60c1b-b76b-4857-b5f0-cad4d79c2e82" time="1389197776481" ignored="false" />
     <file path="/.gitignore" changelist="42a60c1b-b76b-4857-b5f0-cad4d79c2e82" time="1389200210264" ignored="false" />
     <file path="/static_pages_spec.rb" changelist="42a60c1b-b76b-4857-b5f0-cad4d79c2e82" time="1389380752150" ignored="false" />
@@ -17,22 +17,22 @@
     <file path="/contact.html.erb" changelist="42a60c1b-b76b-4857-b5f0-cad4d79c2e82" time="1389206828475" ignored="false" />
     <file path="/application_helper.rb" changelist="42a60c1b-b76b-4857-b5f0-cad4d79c2e82" time="1389208500218" ignored="false" />
     <file path="/application.html.erb" changelist="42a60c1b-b76b-4857-b5f0-cad4d79c2e82" time="1389286054775" ignored="false" />
-    <file path="/a.dummy" changelist="42a60c1b-b76b-4857-b5f0-cad4d79c2e82" time="1389385972606" ignored="false" />
+    <file path="/a.dummy" changelist="42a60c1b-b76b-4857-b5f0-cad4d79c2e82" time="1389825915210" ignored="false" />
     <file path="$USER_HOME$/dev/cypress/app/views/profiles/edit.html.haml" changelist="42a60c1b-b76b-4857-b5f0-cad4d79c2e82" time="1389304663733" ignored="false" />
     <file path="/edit.html.haml" changelist="42a60c1b-b76b-4857-b5f0-cad4d79c2e82" time="1389215673716" ignored="false" />
-    <file path="$USER_HOME$/dev/cypress/app/assets/javascripts/profiles/edit.onready.js.coffee" changelist="42a60c1b-b76b-4857-b5f0-cad4d79c2e82" time="1389219753478" ignored="false" />
+    <file path="$USER_HOME$/dev/cypress/app/assets/javascripts/profiles/edit.onready.js.coffee" changelist="42a60c1b-b76b-4857-b5f0-cad4d79c2e82" time="1389734891220" ignored="false" />
     <file path="$USER_HOME$/dev/cypress/app/controllers/privacy_policies_controller.rb" changelist="42a60c1b-b76b-4857-b5f0-cad4d79c2e82" time="1389216047722" ignored="false" />
-    <file path="$USER_HOME$/dev/cypress/lib/manilla/user_profile.rb" changelist="42a60c1b-b76b-4857-b5f0-cad4d79c2e82" time="1389216047722" ignored="false" />
+    <file path="$USER_HOME$/dev/cypress/lib/manilla/user_profile.rb" changelist="42a60c1b-b76b-4857-b5f0-cad4d79c2e82" time="1389734891220" ignored="false" />
     <file path="$USER_HOME$/dev/cypress/app/controllers/profiles_controller.rb" changelist="42a60c1b-b76b-4857-b5f0-cad4d79c2e82" time="1389216047722" ignored="false" />
     <file path="$USER_HOME$/dev/cypress/app/models/notification_setting.rb" changelist="42a60c1b-b76b-4857-b5f0-cad4d79c2e82" time="1389216047722" ignored="false" />
-    <file path="$USER_HOME$/dev/cypress/app/models/mailer.rb" changelist="42a60c1b-b76b-4857-b5f0-cad4d79c2e82" time="1389216047722" ignored="false" />
-    <file path="$USER_HOME$/dev/cypress/config/locales/devise.en.yml" changelist="42a60c1b-b76b-4857-b5f0-cad4d79c2e82" time="1389216047722" ignored="false" />
-    <file path="$USER_HOME$/dev/cypress/app/models/mailer_identity.rb" changelist="42a60c1b-b76b-4857-b5f0-cad4d79c2e82" time="1389216047722" ignored="false" />
-    <file path="$USER_HOME$/dev/cypress/config/locales/en.yml" changelist="42a60c1b-b76b-4857-b5f0-cad4d79c2e82" time="1389216047722" ignored="false" />
-    <file path="$USER_HOME$/dev/cypress/db/schema.rb" changelist="42a60c1b-b76b-4857-b5f0-cad4d79c2e82" time="1389374333993" ignored="false" />
-    <file path="$USER_HOME$/dev/cypress/Gemfile" changelist="42a60c1b-b76b-4857-b5f0-cad4d79c2e82" time="1389216047722" ignored="false" />
-    <file path="$USER_HOME$/dev/cypress/app/models/user.rb" changelist="42a60c1b-b76b-4857-b5f0-cad4d79c2e82" time="1389216047722" ignored="false" />
-    <file path="$USER_HOME$/dev/cypress/config/routes.rb" changelist="42a60c1b-b76b-4857-b5f0-cad4d79c2e82" time="1389304663733" ignored="false" />
+    <file path="$USER_HOME$/dev/cypress/app/models/mailer.rb" changelist="42a60c1b-b76b-4857-b5f0-cad4d79c2e82" time="1389734891220" ignored="false" />
+    <file path="$USER_HOME$/dev/cypress/config/locales/devise.en.yml" changelist="42a60c1b-b76b-4857-b5f0-cad4d79c2e82" time="1389734891220" ignored="false" />
+    <file path="$USER_HOME$/dev/cypress/app/models/mailer_identity.rb" changelist="42a60c1b-b76b-4857-b5f0-cad4d79c2e82" time="1389741381795" ignored="false" />
+    <file path="$USER_HOME$/dev/cypress/config/locales/en.yml" changelist="42a60c1b-b76b-4857-b5f0-cad4d79c2e82" time="1389741381795" ignored="false" />
+    <file path="$USER_HOME$/dev/cypress/db/schema.rb" changelist="42a60c1b-b76b-4857-b5f0-cad4d79c2e82" time="1389810499314" ignored="false" />
+    <file path="$USER_HOME$/dev/cypress/Gemfile" changelist="42a60c1b-b76b-4857-b5f0-cad4d79c2e82" time="1389734891220" ignored="false" />
+    <file path="$USER_HOME$/dev/cypress/app/models/user.rb" changelist="42a60c1b-b76b-4857-b5f0-cad4d79c2e82" time="1389734891220" ignored="false" />
+    <file path="$USER_HOME$/dev/cypress/config/routes.rb" changelist="42a60c1b-b76b-4857-b5f0-cad4d79c2e82" time="1389741381795" ignored="false" />
     <file path="$USER_HOME$/dev/cypress/app/models/user_mailer.rb" changelist="42a60c1b-b76b-4857-b5f0-cad4d79c2e82" time="1389216047722" ignored="false" />
     <file path="$USER_HOME$/dev/cypress/lib/manilla/user_after_auth_callbacks.rb" changelist="42a60c1b-b76b-4857-b5f0-cad4d79c2e82" time="1389216047722" ignored="false" />
     <file path="$USER_HOME$/dev/cypress/spec_fast/lib/manilla/account_item_master_summary_actions_spec.rb" changelist="42a60c1b-b76b-4857-b5f0-cad4d79c2e82" time="1389216047722" ignored="false" />
@@ -42,11 +42,96 @@
     <file path="/_header.html.erb" changelist="42a60c1b-b76b-4857-b5f0-cad4d79c2e82" time="1389294720427" ignored="false" />
     <file path="/_footer.html.erb" changelist="42a60c1b-b76b-4857-b5f0-cad4d79c2e82" time="1389294749351" ignored="false" />
     <file path="/utilities.rb" changelist="42a60c1b-b76b-4857-b5f0-cad4d79c2e82" time="1389369357493" ignored="false" />
-    <file path="$USER_HOME$/dev/cypress/app/views/shared/_security.html.haml" changelist="42a60c1b-b76b-4857-b5f0-cad4d79c2e82" time="1389374332384" ignored="false" />
-    <file path="/_security.html.haml" changelist="42a60c1b-b76b-4857-b5f0-cad4d79c2e82" time="1389305401891" ignored="false" />
+    <file path="$USER_HOME$/dev/cypress/app/views/shared/_security.html.haml" changelist="42a60c1b-b76b-4857-b5f0-cad4d79c2e82" time="1389803391374" ignored="false" />
+    <file path="/_security.html.haml" changelist="42a60c1b-b76b-4857-b5f0-cad4d79c2e82" time="1389738713409" ignored="false" />
     <file path="/user_pages_spec.rb" changelist="42a60c1b-b76b-4857-b5f0-cad4d79c2e82" time="1389374394411" ignored="false" />
     <file path="/new.html.erb" changelist="42a60c1b-b76b-4857-b5f0-cad4d79c2e82" time="1389369239719" ignored="false" />
     <file path="/application_helper_spec.rb" changelist="42a60c1b-b76b-4857-b5f0-cad4d79c2e82" time="1389380436389" ignored="false" />
+    <file path="/user_spec.rb" changelist="42a60c1b-b76b-4857-b5f0-cad4d79c2e82" time="1389888439083" ignored="false" />
+    <file path="/user.rb" changelist="42a60c1b-b76b-4857-b5f0-cad4d79c2e82" time="1389889392634" ignored="false" />
+    <file path="/Dummy.txt" changelist="42a60c1b-b76b-4857-b5f0-cad4d79c2e82" time="1389825223762" ignored="false" />
+    <file path="$USER_HOME$/dev/redwood/app/controllers/cypress_users_controller.rb" changelist="42a60c1b-b76b-4857-b5f0-cad4d79c2e82" time="1389650270158" ignored="false" />
+    <file path="$USER_HOME$/dev/redwood/Gemfile" changelist="42a60c1b-b76b-4857-b5f0-cad4d79c2e82" time="1389650270159" ignored="false" />
+    <file path="$USER_HOME$/dev/redwood/db/schema.rb" changelist="42a60c1b-b76b-4857-b5f0-cad4d79c2e82" time="1389810499314" ignored="false" />
+    <file path="$USER_HOME$/dev/redwood/app/views/copy_text_items/index.html.haml" changelist="42a60c1b-b76b-4857-b5f0-cad4d79c2e82" time="1389724039933" ignored="false" />
+    <file path="$USER_HOME$/dev/redwood/app/controllers/copy_text_items_controller.rb" changelist="42a60c1b-b76b-4857-b5f0-cad4d79c2e82" time="1389717828174" ignored="false" />
+    <file path="/index.html.haml" changelist="42a60c1b-b76b-4857-b5f0-cad4d79c2e82" time="1389717755094" ignored="false" />
+    <file path="/copy_text_items_controller.rb" changelist="42a60c1b-b76b-4857-b5f0-cad4d79c2e82" time="1389717199205" ignored="false" />
+    <file path="$USER_HOME$/dev/cypress/app/jobs/reminders_generator.rb" changelist="42a60c1b-b76b-4857-b5f0-cad4d79c2e82" time="1389734891220" ignored="false" />
+    <file path="$USER_HOME$/dev/cypress/lib/reminder_notification_logic.rb" changelist="42a60c1b-b76b-4857-b5f0-cad4d79c2e82" time="1389734891220" ignored="false" />
+    <file path="$USER_HOME$/dev/cypress/spec/controllers/account_items_controller_spec.rb" changelist="42a60c1b-b76b-4857-b5f0-cad4d79c2e82" time="1389741381795" ignored="false" />
+    <file path="$USER_HOME$/dev/cypress/spec/lib/manilla_form_builder_spec.rb" changelist="42a60c1b-b76b-4857-b5f0-cad4d79c2e82" time="1389734891220" ignored="false" />
+    <file path="$USER_HOME$/dev/cypress/spec/models/mailer_account_spec.rb" changelist="42a60c1b-b76b-4857-b5f0-cad4d79c2e82" time="1389734891220" ignored="false" />
+    <file path="$USER_HOME$/dev/cypress/spec/models/sharing_relationship_spec.rb" changelist="42a60c1b-b76b-4857-b5f0-cad4d79c2e82" time="1389741381795" ignored="false" />
+    <file path="$USER_HOME$/dev/cypress/spec/models/reset_token_spec.rb" changelist="42a60c1b-b76b-4857-b5f0-cad4d79c2e82" time="1389734891220" ignored="false" />
+    <file path="$USER_HOME$/dev/cypress/spec/controllers/mailer_accounts_controller_api_spec.rb" changelist="42a60c1b-b76b-4857-b5f0-cad4d79c2e82" time="1389734891220" ignored="false" />
+    <file path="$USER_HOME$/dev/cypress/app/views/shared/_alert.v5.json.jbuilder" changelist="42a60c1b-b76b-4857-b5f0-cad4d79c2e82" time="1389734891220" ignored="false" />
+    <file path="$USER_HOME$/dev/cypress/app/models/api/v4/payload_module.rb" changelist="42a60c1b-b76b-4857-b5f0-cad4d79c2e82" time="1389734891220" ignored="false" />
+    <file path="$USER_HOME$/dev/cypress/spec/controllers/profiles_controller_spec.rb" changelist="42a60c1b-b76b-4857-b5f0-cad4d79c2e82" time="1389734891220" ignored="false" />
+    <file path="$USER_HOME$/dev/cypress/app/controllers/reset_tokens_controller.rb" changelist="42a60c1b-b76b-4857-b5f0-cad4d79c2e82" time="1389734891220" ignored="false" />
+    <file path="$USER_HOME$/dev/cypress/lib/messages_logic.rb" changelist="42a60c1b-b76b-4857-b5f0-cad4d79c2e82" time="1389734891220" ignored="false" />
+    <file path="$USER_HOME$/dev/cypress/lib/assets/javascripts/manilla.js.coffee" changelist="42a60c1b-b76b-4857-b5f0-cad4d79c2e82" time="1389734891220" ignored="false" />
+    <file path="$USER_HOME$/dev/cypress/app/controllers/contact_us_controller.rb" changelist="42a60c1b-b76b-4857-b5f0-cad4d79c2e82" time="1389734891220" ignored="false" />
+    <file path="$USER_HOME$/dev/cypress/app/assets/javascripts/app/views/account_edit.js.coffee" changelist="42a60c1b-b76b-4857-b5f0-cad4d79c2e82" time="1389734891220" ignored="false" />
+    <file path="$USER_HOME$/dev/cypress/app/assets/javascripts/app/views/account_alert_show.js.coffee" changelist="42a60c1b-b76b-4857-b5f0-cad4d79c2e82" time="1389734891220" ignored="false" />
+    <file path="$USER_HOME$/dev/cypress/spec/models/shared_item_spec.rb" changelist="42a60c1b-b76b-4857-b5f0-cad4d79c2e82" time="1389741381795" ignored="false" />
+    <file path="$USER_HOME$/dev/cypress/app/assets/templates/account_item/_error.html.handlebars" changelist="42a60c1b-b76b-4857-b5f0-cad4d79c2e82" time="1389734891220" ignored="false" />
+    <file path="$USER_HOME$/dev/cypress/app/controllers/documents_controller.rb" changelist="42a60c1b-b76b-4857-b5f0-cad4d79c2e82" time="1389734891220" ignored="false" />
+    <file path="$USER_HOME$/dev/cypress/config/environments/test.rb" changelist="42a60c1b-b76b-4857-b5f0-cad4d79c2e82" time="1389734891220" ignored="false" />
+    <file path="$USER_HOME$/dev/cypress/spec/lib/manilla/account_item_validation_spec.rb" changelist="42a60c1b-b76b-4857-b5f0-cad4d79c2e82" time="1389734891220" ignored="false" />
+    <file path="$USER_HOME$/dev/cypress/app/views/contact_us/show.html.haml" changelist="42a60c1b-b76b-4857-b5f0-cad4d79c2e82" time="1389734891220" ignored="false" />
+    <file path="$USER_HOME$/dev/cypress/lib/assets/javascripts/manilla.onready.js.coffee" changelist="42a60c1b-b76b-4857-b5f0-cad4d79c2e82" time="1389734891220" ignored="false" />
+    <file path="$USER_HOME$/dev/cypress/spec/lib/manilla/sms_user_notifier_spec.rb" changelist="42a60c1b-b76b-4857-b5f0-cad4d79c2e82" time="1389734891220" ignored="false" />
+    <file path="$USER_HOME$/dev/cypress/config/environments/development.rb" changelist="42a60c1b-b76b-4857-b5f0-cad4d79c2e82" time="1389734891220" ignored="false" />
+    <file path="$USER_HOME$/dev/cypress/spec/models/user_spec.rb" changelist="42a60c1b-b76b-4857-b5f0-cad4d79c2e82" time="1389741381795" ignored="false" />
+    <file path="$USER_HOME$/dev/cypress/spec/controllers/sharing_relationships_controller_spec.rb" changelist="42a60c1b-b76b-4857-b5f0-cad4d79c2e82" time="1389741381795" ignored="false" />
+    <file path="$USER_HOME$/dev/cypress/app/models/account_item.rb" changelist="42a60c1b-b76b-4857-b5f0-cad4d79c2e82" time="1389741381795" ignored="false" />
+    <file path="$USER_HOME$/dev/cypress/app/assets/javascripts/app/views/recovery_options_form.js.coffee" changelist="42a60c1b-b76b-4857-b5f0-cad4d79c2e82" time="1389734891220" ignored="false" />
+    <file path="$USER_HOME$/dev/cypress/app/helpers/mailer_accounts_helper.rb" changelist="42a60c1b-b76b-4857-b5f0-cad4d79c2e82" time="1389734891220" ignored="false" />
+    <file path="$USER_HOME$/dev/cypress/app/controllers/api/v4/accounts_controller.rb" changelist="42a60c1b-b76b-4857-b5f0-cad4d79c2e82" time="1389734891220" ignored="false" />
+    <file path="$USER_HOME$/dev/cypress/app/helpers/web_application_helper.rb" changelist="42a60c1b-b76b-4857-b5f0-cad4d79c2e82" time="1389734891220" ignored="false" />
+    <file path="$USER_HOME$/dev/cypress/app/models/alert_observer.rb" changelist="42a60c1b-b76b-4857-b5f0-cad4d79c2e82" time="1389734891220" ignored="false" />
+    <file path="$USER_HOME$/dev/cypress/app/helpers/action_links_helper.rb" changelist="42a60c1b-b76b-4857-b5f0-cad4d79c2e82" time="1389734891220" ignored="false" />
+    <file path="$USER_HOME$/dev/cypress/app/controllers/api/v4/mailer_identities_controller.rb" changelist="42a60c1b-b76b-4857-b5f0-cad4d79c2e82" time="1389734891220" ignored="false" />
+    <file path="$USER_HOME$/dev/cypress/spec/models/account_item_spec.rb" changelist="42a60c1b-b76b-4857-b5f0-cad4d79c2e82" time="1389741381795" ignored="false" />
+    <file path="$USER_HOME$/dev/cypress/app/models/mailer_account.rb" changelist="42a60c1b-b76b-4857-b5f0-cad4d79c2e82" time="1389741381795" ignored="false" />
+    <file path="$USER_HOME$/dev/cypress/app/controllers/sms/confirmation_codes_controller.rb" changelist="42a60c1b-b76b-4857-b5f0-cad4d79c2e82" time="1389734891220" ignored="false" />
+    <file path="$USER_HOME$/dev/cypress/app/models/status_message.rb" changelist="42a60c1b-b76b-4857-b5f0-cad4d79c2e82" time="1389734891220" ignored="false" />
+    <file path="$USER_HOME$/dev/cypress/spec/lib/messages_logic_spec.rb" changelist="42a60c1b-b76b-4857-b5f0-cad4d79c2e82" time="1389734891220" ignored="false" />
+    <file path="$USER_HOME$/dev/cypress/app/views/account_items/new_custom_account_modal.html.haml" changelist="42a60c1b-b76b-4857-b5f0-cad4d79c2e82" time="1389734891220" ignored="false" />
+    <file path="$USER_HOME$/dev/cypress/spec/controllers/reset_tokens_controller_spec.rb" changelist="42a60c1b-b76b-4857-b5f0-cad4d79c2e82" time="1389734891220" ignored="false" />
+    <file path="$USER_HOME$/dev/cypress/lib/manilla/account_item_alert.rb" changelist="42a60c1b-b76b-4857-b5f0-cad4d79c2e82" time="1389734891220" ignored="false" />
+    <file path="$USER_HOME$/dev/cypress/lib/manilla/base_url.rb" changelist="42a60c1b-b76b-4857-b5f0-cad4d79c2e82" time="1389734891220" ignored="false" />
+    <file path="$USER_HOME$/dev/cypress/app/assets/javascripts/sms/confirmation_codes/confirm.js.coffee" changelist="42a60c1b-b76b-4857-b5f0-cad4d79c2e82" time="1389734891220" ignored="false" />
+    <file path="$USER_HOME$/dev/cypress/spec/jobs/send_overdue_reminders_job_spec.rb" changelist="42a60c1b-b76b-4857-b5f0-cad4d79c2e82" time="1389734891220" ignored="false" />
+    <file path="$USER_HOME$/dev/cypress/lib/manilla/account_item_validation.rb" changelist="42a60c1b-b76b-4857-b5f0-cad4d79c2e82" time="1389734891220" ignored="false" />
+    <file path="$USER_HOME$/dev/cypress/app/controllers/mailer_identities_controller.rb" changelist="42a60c1b-b76b-4857-b5f0-cad4d79c2e82" time="1389734891220" ignored="false" />
+    <file path="$USER_HOME$/dev/cypress/app/controllers/clone_mailer_identities_controller.rb" changelist="42a60c1b-b76b-4857-b5f0-cad4d79c2e82" time="1389734891220" ignored="false" />
+    <file path="$USER_HOME$/dev/cypress/app/controllers/account_items_controller.rb" changelist="42a60c1b-b76b-4857-b5f0-cad4d79c2e82" time="1389734891220" ignored="false" />
+    <file path="$USER_HOME$/dev/cypress/spec/controllers/registrations_controller_spec.rb" changelist="42a60c1b-b76b-4857-b5f0-cad4d79c2e82" time="1389734891220" ignored="false" />
+    <file path="$USER_HOME$/dev/cypress/app/controllers/user_roles_controller.rb" changelist="42a60c1b-b76b-4857-b5f0-cad4d79c2e82" time="1389734891220" ignored="false" />
+    <file path="$USER_HOME$/dev/cypress/app/views/sms/notifications/new.html.haml" changelist="42a60c1b-b76b-4857-b5f0-cad4d79c2e82" time="1389734891220" ignored="false" />
+    <file path="$USER_HOME$/dev/cypress/app/controllers/web_application_controller.rb" changelist="42a60c1b-b76b-4857-b5f0-cad4d79c2e82" time="1389734891220" ignored="false" />
+    <file path="$USER_HOME$/dev/cypress/spec/javascripts/app/views/account_edit_spec.js.coffee" changelist="42a60c1b-b76b-4857-b5f0-cad4d79c2e82" time="1389734891220" ignored="false" />
+    <file path="$USER_HOME$/dev/cypress/app/controllers/mailer_accounts_controller.rb" changelist="42a60c1b-b76b-4857-b5f0-cad4d79c2e82" time="1389734891220" ignored="false" />
+    <file path="$USER_HOME$/dev/cypress/spec/models/mailer_identity_spec.rb" changelist="42a60c1b-b76b-4857-b5f0-cad4d79c2e82" time="1389734891220" ignored="false" />
+    <file path="$USER_HOME$/dev/cypress/app/views/shared/_alerts.html.haml" changelist="42a60c1b-b76b-4857-b5f0-cad4d79c2e82" time="1389734891220" ignored="false" />
+    <file path="$USER_HOME$/dev/cypress/spec/javascripts/app/views/account_alert_show_spec.js.coffee" changelist="42a60c1b-b76b-4857-b5f0-cad4d79c2e82" time="1389734891220" ignored="false" />
+    <file path="$USER_HOME$/dev/cypress/db/seeds.rb" changelist="42a60c1b-b76b-4857-b5f0-cad4d79c2e82" time="1389734891220" ignored="false" />
+    <file path="$USER_HOME$/dev/cypress/app/views/account_items/_header.v5.json.jbuilder" changelist="42a60c1b-b76b-4857-b5f0-cad4d79c2e82" time="1389734891220" ignored="false" />
+    <file path="$USER_HOME$/dev/cypress/config/application.rb" changelist="42a60c1b-b76b-4857-b5f0-cad4d79c2e82" time="1389734891220" ignored="false" />
+    <file path="$USER_HOME$/dev/cypress/app/views/account_items/_mailer_banner.html.haml" changelist="42a60c1b-b76b-4857-b5f0-cad4d79c2e82" time="1389741381795" ignored="false" />
+    <file path="$USER_HOME$/dev/cypress/spec/javascripts/fixtures/auto-login-index-page-Chrome.html" changelist="42a60c1b-b76b-4857-b5f0-cad4d79c2e82" time="1389803975653" ignored="false" />
+    <file path="$USER_HOME$/dev/cypress/spec/javascripts/fixtures/edit-profile-page.html" changelist="42a60c1b-b76b-4857-b5f0-cad4d79c2e82" time="1389803975654" ignored="false" />
+    <file path="$USER_HOME$/dev/cypress/spec/javascripts/fixtures/edit-profile-page-openid-user.html" changelist="42a60c1b-b76b-4857-b5f0-cad4d79c2e82" time="1389803975654" ignored="false" />
+    <file path="$USER_HOME$/dev/cypress/spec/javascripts/fixtures/account_items-index-page-with-single-account.html" changelist="42a60c1b-b76b-4857-b5f0-cad4d79c2e82" time="1389803975654" ignored="false" />
+    <file path="$USER_HOME$/dev/cypress/spec/javascripts/fixtures/auto-login-index-page-Safari.html" changelist="42a60c1b-b76b-4857-b5f0-cad4d79c2e82" time="1389803975654" ignored="false" />
+    <file path="$USER_HOME$/dev/cypress/spec/javascripts/fixtures/auto-login-index-page-Trident.html" changelist="42a60c1b-b76b-4857-b5f0-cad4d79c2e82" time="1389803975654" ignored="false" />
+    <file path="$USER_HOME$/dev/cypress/spec/javascripts/fixtures/auto-login-show-page-msie.html" changelist="42a60c1b-b76b-4857-b5f0-cad4d79c2e82" time="1389803975654" ignored="false" />
+    <file path="$USER_HOME$/dev/cypress/spec/javascripts/fixtures/auto-login-index-page-Firefox.html" changelist="42a60c1b-b76b-4857-b5f0-cad4d79c2e82" time="1389803975654" ignored="false" />
+    <file path="$USER_HOME$/dev/cypress/spec/javascripts/fixtures/auto-login-index-page-MSIE.html" changelist="42a60c1b-b76b-4857-b5f0-cad4d79c2e82" time="1389803975654" ignored="false" />
+    <file path="$USER_HOME$/dev/cypress/spec/javascripts/fixtures/reset-password-choose-recovery-option.html" changelist="42a60c1b-b76b-4857-b5f0-cad4d79c2e82" time="1389803975654" ignored="false" />
+    <file path="/20140115165157_add_index_to_users_email.rb" changelist="42a60c1b-b76b-4857-b5f0-cad4d79c2e82" time="1389804793589" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,46 +151,28 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="user_pages_spec.rb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spec/requests/user_pages_spec.rb">
+      <file leaf-file-name="user.rb" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/models/user.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="63" selection-start="215" selection-end="251" vertical-scroll-proportion="0.0">
+            <state line="6" column="17" selection-start="146" selection-end="146" vertical-scroll-proportion="0.11083744">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="static_pages_spec.rb" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/spec/requests/static_pages_spec.rb">
+      <file leaf-file-name="user_spec.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spec/models/user_spec.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="55" column="27" selection-start="1522" selection-end="1522" vertical-scroll-proportion="0.8365019">
+            <state line="50" column="39" selection-start="1332" selection-end="1332" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="application_helper_spec.rb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spec/helpers/application_helper_spec.rb">
+      <file leaf-file-name="20140115193847_add_password_digest_to_users.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/db/migrate/20140115193847_add_password_digest_to_users.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="17" column="3" selection-start="406" selection-end="406" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="utilities.rb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spec/support/utilities.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="25" selection-start="191" selection-end="191" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="application_helper.rb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/helpers/application_helper.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="0" selection-start="257" selection-end="257" vertical-scroll-proportion="0.0">
+            <state line="5" column="0" selection-start="129" selection-end="129" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -130,10 +197,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/app/helpers/application_helper.rb" />
-        <option value="$PROJECT_DIR$/app/views/static_pages/help.html.erb" />
-        <option value="$PROJECT_DIR$/app/views/layouts/_shim.html.erb" />
-        <option value="$PROJECT_DIR$/app/views/layouts/_footer.htlm.erb" />
         <option value="$PROJECT_DIR$/app/views/layouts/application.html.erb" />
         <option value="$PROJECT_DIR$/app/assets/stylesheets/custom.css.scss" />
         <option value="$PROJECT_DIR$/app/views/layouts/_header.html.erb" />
@@ -141,11 +204,15 @@
         <option value="$PROJECT_DIR$/config/routes.rb" />
         <option value="$PROJECT_DIR$/app/views/users/new.html.erb" />
         <option value="$PROJECT_DIR$/spec/requests/user_pages_spec.rb" />
-        <option value="$PROJECT_DIR$/Gemfile" />
         <option value="$PROJECT_DIR$/app/views/static_pages/home.html.erb" />
         <option value="$PROJECT_DIR$/spec/helpers/application_helper_spec.rb" />
         <option value="$PROJECT_DIR$/spec/support/utilities.rb" />
         <option value="$PROJECT_DIR$/spec/requests/static_pages_spec.rb" />
+        <option value="$PROJECT_DIR$/db/migrate/20140115165157_add_index_to_users_email.rb" />
+        <option value="$PROJECT_DIR$/Gemfile" />
+        <option value="$PROJECT_DIR$/spec/models/user_spec.rb" />
+        <option value="$PROJECT_DIR$/app/models/user.rb" />
+        <option value="$PROJECT_DIR$/config/application.rb" />
       </list>
     </option>
   </component>
@@ -157,9 +224,9 @@
     <option name="CUSTOM_FILTER" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="786" />
-    <option name="y" value="66" />
-    <option name="width" value="1156" />
+    <option name="x" value="846" />
+    <option name="y" value="40" />
+    <option name="width" value="1081" />
     <option name="height" value="937" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
@@ -217,89 +284,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="spec" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="hartl_tut_sample_app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="hartl_tut_sample_app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="spec" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="support" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="hartl_tut_sample_app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="hartl_tut_sample_app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="spec" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="helpers" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="hartl_tut_sample_app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="hartl_tut_sample_app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="config" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="hartl_tut_sample_app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="hartl_tut_sample_app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="hartl_tut_sample_app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="hartl_tut_sample_app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="helpers" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -669,18 +654,18 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="786" y="66" width="1156" height="937" extended-state="1" />
+    <frame x="846" y="40" width="1081" height="937" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32967034" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24414414" sideWeight="0.67142856" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23091787" sideWeight="0.67261904" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3297619" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3283237" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32738096" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -753,46 +738,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/views/static_pages/contact.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="24" selection-start="84" selection-end="84" vertical-scroll-proportion="0.053892214" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/layouts/_header.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="83" selection-start="433" selection-end="433" vertical-scroll-proportion="-8.125">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/layouts/_footer.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="85" selection-start="341" selection-end="341" vertical-scroll-proportion="0.20979021">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/static_pages/help.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="65" selection-start="78" selection-end="78" vertical-scroll-proportion="-3.125">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/users/new.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="0" selection-start="97" selection-end="97" vertical-scroll-proportion="-1.875">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/custom.css.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="82" column="20" selection-start="1031" selection-end="1031" vertical-scroll-proportion="0.65145755">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/spec/spec_helper.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="40" column="0" selection-start="1481" selection-end="1481" vertical-scroll-proportion="1.1695906">
@@ -807,30 +752,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Gemfile">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="0" selection-start="186" selection-end="186" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/views/static_pages/home.html.erb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="10" column="0" selection-start="261" selection-end="261" vertical-scroll-proportion="0.30674848">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spec/requests/user_pages_spec.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="63" selection-start="215" selection-end="251" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/helpers/application_helper.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="0" selection-start="257" selection-end="257" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -849,6 +773,34 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/spec/requests/static_pages_spec.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="55" column="27" selection-start="1522" selection-end="1522" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db/migrate/20140110210945_create_users.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="0" selection-start="169" selection-end="169" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/helpers/application_helper.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="0" selection-start="257" selection-end="257" vertical-scroll-proportion="0.30726257">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spec/requests/user_pages_spec.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="63" selection-start="215" selection-end="251" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/config/routes.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="8" column="0" selection-start="231" selection-end="231" vertical-scroll-proportion="0.0">
@@ -856,9 +808,44 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spec/requests/static_pages_spec.rb">
+    <entry file="file://$PROJECT_DIR$/db/migrate/20140115165157_add_index_to_users_email.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="55" column="27" selection-start="1522" selection-end="1522" vertical-scroll-proportion="0.8365019">
+        <state line="2" column="42" selection-start="108" selection-end="108" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gemfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="12" selection-start="42" selection-end="42" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db/migrate/20140115193847_add_password_digest_to_users.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="0" selection-start="129" selection-end="129" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spec/models/user_spec.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="50" column="39" selection-start="1332" selection-end="1332" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/application.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="64" column="61" selection-start="2969" selection-end="2969" vertical-scroll-proportion="0.81527096">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/models/user.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="17" selection-start="146" selection-end="146" vertical-scroll-proportion="0.11083744">
           <folding />
         </state>
       </provider>
